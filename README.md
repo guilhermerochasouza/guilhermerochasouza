@@ -1,6 +1,11 @@
 
 
-### 👋 Olá eu sou o Guilherme da Rocha Souza 
+## 👋 Olá eu sou o Guilherme da Rocha Souza 
+
+##### 📍 RIO GRANDE DO SUL - GRAVATAÍ
+
+
+#
 
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/guilhermerochaads/)
 [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rocha.aa_/)
@@ -8,7 +13,7 @@
 ![Guilherme GitHub stats](https://github-readme-stats.vercel.app/api?username=guilhermerochasouza&show_icons=true&theme=radical)
 
 
-### 💻 Tecnologias que eu uso no meu dia
+## 💻 Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block"><br/>
 
@@ -17,7 +22,19 @@
 
 <img aLign="center" aLt="html5" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
 <img aLign="center" aLt="html5" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white"/>
+</div><br/>
 
-</div>
+#
+#### - Sou estudante do curso de análise e desevolvimento de sistemas - CENTRO UNIVERSITÁRIO CESUCA
 
-Sou estudante do curso de análise e desevolvimento de sistemas - CENTRO UNIVERSITÁRIO CESUCA
+#### - Faço curso de full stack - UDEMY
+
+#
+
+## Meu Objetivo 🚩
+
+### - Em busca do conhecimento e crescimento profissional na área de ADS, altamente motivado para desafios e confiante, tenho uma boa comunição entre colegas, se eu tenho dúvidas vou atrás de respostas 😁
+
+#
+
+
