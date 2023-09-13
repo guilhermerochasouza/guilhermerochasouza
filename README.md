@@ -1,6 +1,6 @@
 
 
-## 👋 Olá, eu sou o Guilherme da Rocha Souza 
+## 👋 Olá, eu sou o Guilherme da Rocha Souza
 
 ##### 📍 RIO GRANDE DO SUL - GRAVATAÍ
 
@@ -25,9 +25,9 @@
 </div><br/>
 
 #
-#### - Sou estudante do curso de análise e desevolvimento de sistemas - CENTRO UNIVERSITÁRIO CESUCA
+#### - Sou estudante do curso de análise e desevolvimento de sistemas - EM ANDAMENTO - CENTRO UNIVERSITÁRIO CESUCA
 
-#### - Faço curso de full stack - UDEMY
+#### - Curso de FULL STACK - EM ANDAMENTO - UDEMY
 
 #
 
