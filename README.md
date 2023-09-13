@@ -1,6 +1,6 @@
 
 
-## 👋 Olá eu sou o Guilherme da Rocha Souza 
+## 👋 Olá, eu sou o Guilherme da Rocha Souza 
 
 ##### 📍 RIO GRANDE DO SUL - GRAVATAÍ
 
@@ -34,7 +34,7 @@
 ## Meu Objetivo 🚩
 
 ### - Em busca do conhecimento e crescimento profissional na área de ADS, altamente motivado para desafios e confiante, tenho uma boa comunição entre colegas, se eu tenho dúvidas vou atrás de respostas 😁
-
+### - Procuro colaborar em projetos com meu amigo  Lucas Oliveira Barbosa, vulgo @K1ngdriver em um blog sobre vida e programação, e alguns tipos de projetos de nossa autoria...
 #
 
 
